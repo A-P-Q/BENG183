@@ -45,4 +45,32 @@ RNA-Seq analysis may reveal novel biomarkers associated with treatment response,
 
 ### Disadvantages
 
+1. Cost and Technical Complexity:
+Costly Procedures: RNA-Seq involves high costs, including library preparation, sequencing, computational resources, and expertise.
+Technical Expertise: Data analysis requires bioinformatics expertise, and the complexity of workflows demands skilled personnel.
+
+2. Data Analysis Challenges:
+Computational Burden: Analyzing large-scale RNA-Seq datasets can be computationally intensive and time-consuming.
+Normalization and Variability: Normalizing data across samples and accounting for biological and technical variability can be challenging.
+
+3. Sensitivity to Experimental Variables:
+Sample Quality: RNA-Seq results can be affected by the quality and integrity of RNA samples, which may vary among different sample types or handling procedures.
+Batch Effects: Variability between different sequencing runs or batches might introduce unwanted biases in the results.
+
+4. Transcriptome Complexity:
+Alternative Splicing and Isoforms: RNA-Seq might struggle to accurately capture and quantify alternative splicing events and rare transcript isoforms due to their complexity.
+
+5. Limited Sensitivity for Low-Abundance Transcripts:
+Detection Limits: RNA-Seq might miss detection of very low-abundance transcripts, leading to underrepresentation of rare transcripts.
+
+6. Integration Challenges:
+Integrating Multi-Omics Data: Integrating RNA-Seq data with other omics data (genomics, proteomics) can be challenging and requires sophisticated analytical approaches.
+
+7. Standardization and Reproducibility:
+Standardization Issues: Lack of standardized protocols across laboratories can lead to variability in results.
+Reproducibility: Variability in results between studies or labs might affect the reliability of findings.
+
+8. Ethical and Regulatory Challenges:
+Data Privacy and Security: Handling patient genomic data raises concerns about privacy and security, necessitating stringent regulations and ethical considerations.
+
 ## Future Directions
