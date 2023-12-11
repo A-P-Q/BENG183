@@ -10,10 +10,10 @@ Genetic testing helps identify specific mutations or alterations within a patien
 
 > In subsequent sections, we will talk about the utilization of RNA-Seq and differential expression analysis in personalized cancer treatment.
 
-### RNA-seq
-RNA-Seq (RNA sequencing) is a powerful and widely used technique in molecular biology and genomics. It's a method used to analyze the presence and quantity of RNA in a biological sample, providing valuable insights into gene expression, alternative splicing, and transcriptomic changes within cells or tissues.
+### Why Do We Choose RNA-seq?
+RNA-Seq (RNA sequencing) is a powerful and widely used technique in molecular biology and genomics. It's a method used to analyze the presence and quantity of RNA in a biological sample, providing valuable insights into levels of gene expression, alternative splicing, and transcriptomic changes within cells or tissues. These information can be analyzed and utilized to predict treatment outcomes of different medication plans, to monitor the progress and efficacy of treatment, and on the large scale contributes to our understanding of the relations between DNA sequence, expression pattern, and optimal treatment plan of each subtype of cancer.
 
-### Differential Expression analysis
+### Why Do We Choose Differential Expression Analysis?
 Differential Expression analysis is a fundamental method used in genomics and transcriptomics to compare gene expression levels between different conditions or groups, such as healthy vs. diseased samples, treated vs. untreated samples, or different developmental stages.
 
 * * *
