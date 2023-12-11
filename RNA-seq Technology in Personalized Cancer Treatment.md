@@ -24,7 +24,7 @@ Differential Expression analysis is a fundamental method used in genomics and tr
 
 ## Method
 
-
+![DE-analysis](DE pipeline.jpg)
 * * *
 
 ## Evaluation of Using RNA-Seq in Personalized Cancer Treatment
