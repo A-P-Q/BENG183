@@ -15,7 +15,7 @@ RNA-Seq (RNA sequencing) is a powerful and widely used technique in molecular bi
 
 ![RNA-Sequencing](RNA-Seq.jpg)
 
-Figure from RNA-Seq: a revolutionary tool for transcriptomics (Wang 2009)
+Figure 1. Basic workflow of RNA-seq [1].
 
 ### Why Do We Choose Differential Expression Analysis?
 Differential Expression analysis is a fundamental method used in genomics and transcriptomics to compare gene expression levels between different conditions or groups, such as healthy vs. diseased samples, treated vs. untreated samples, or different developmental stages. By pinpointing genes that are differentially expressed in an individual's tumor, DE analysis aids in the identification of specific molecular targets or pathways that can be therapeutically exploited. This precision allows for the development of targeted therapies tailored to the unique genetic characteristics of the tumor. DE analysis helps stratify patients into subgroups based on gene expression profiles, enabling the selection of the most appropriate and effective treatment strategies for each subgroup. It assists in personalizing treatment regimens, optimizing therapeutic outcomes, and minimizing adverse effects.
@@ -118,3 +118,5 @@ Data Ethics and Sharing: Continued focus on ethical considerations regarding pat
 * * *
 
 ## Reference
+
+[1]: Wang, Z., Gerstein, M. & Snyder, M. RNA-Seq: a revolutionary tool for transcriptomics. Nat Rev Genet 10, 57–63 (2009). https://doi.org/10.1038/nrg2484
