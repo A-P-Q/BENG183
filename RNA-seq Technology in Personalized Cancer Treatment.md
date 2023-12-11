@@ -14,11 +14,16 @@ RNA-Seq (RNA sequencing) is a powerful and widely used technique in molecular bi
 ### Differential Expression analysis
 Differential Expression analysis is a fundamental method used in genomics and transcriptomics to compare gene expression levels between different conditions or groups, such as healthy vs. diseased samples, treated vs. untreated samples, or different developmental stages.
 
+* * *
+
 ## Method
 
 
+* * *
 
 ## Evaluation of Using RNA-Seq in Personalized Cancer Treatment
+
+* * *
 
 ### Advantages
 
@@ -73,6 +78,8 @@ Reproducibility: Variability in results between studies or labs might affect the
 8. Ethical and Regulatory Challenges:
 Data Privacy and Security: Handling patient genomic data raises concerns about privacy and security, necessitating stringent regulations and ethical considerations.
 
+* * *
+
 ## Future Directions
 
 1. Single-Cell RNA-Seq (scRNA-Seq):
@@ -101,5 +108,7 @@ Biomarker Identification: Ongoing efforts to identify novel biomarkers associate
 
 9. Ethical Considerations and Data Sharing:
 Data Ethics and Sharing: Continued focus on ethical considerations regarding patient data, ensuring privacy, and promoting responsible data sharing to accelerate research and improve personalized cancer treatment.
+
+* * *
 
 ## Reference
