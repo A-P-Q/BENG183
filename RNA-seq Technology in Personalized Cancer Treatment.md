@@ -123,4 +123,5 @@ Data Ethics and Sharing: Continued focus on ethical considerations regarding pat
 ## Reference
 
 [1]: Wang, Z., Gerstein, M. & Snyder, M. RNA-Seq: a revolutionary tool for transcriptomics. Nat Rev Genet 10, 57–63 (2009). https://doi.org/10.1038/nrg2484
+
 [2]: Anders, S., McCarthy, D., Chen, Y. et al. Count-based differential expression analysis of RNA sequencing data using R and Bioconductor. Nat Protoc 8, 1765–1786 (2013). https://doi.org/10.1038/nprot.2013.099
