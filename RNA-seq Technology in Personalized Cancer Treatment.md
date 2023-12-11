@@ -14,6 +14,7 @@ Genetic testing helps identify specific mutations or alterations within a patien
 RNA-Seq (RNA sequencing) is a powerful and widely used technique in molecular biology and genomics. It's a method used to analyze the presence and quantity of RNA in a biological sample, providing valuable insights into levels of gene expression, alternative splicing, and transcriptomic changes within cells or tissues. These information can be analyzed and utilized to predict treatment outcomes of different medication plans, to monitor the progress and efficacy of treatment, and on the large scale contributes to our understanding of the relations between DNA sequence, expression pattern, and optimal treatment plan of each subtype of cancer.
 
 ![RNA-Sequencing](RNA-Seq.jpg)
+
 Figure from RNA-Seq: a revolutionary tool for transcriptomics (Wang 2009)
 
 ### Why Do We Choose Differential Expression Analysis?
