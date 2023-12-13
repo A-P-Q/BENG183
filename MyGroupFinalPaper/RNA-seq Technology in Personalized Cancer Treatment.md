@@ -19,7 +19,7 @@
 
 ### What is Precision Medicine ?
 
-Medical approach that considers factors such as <span style="color:blue" > genomic makeup </span>, <span style="color:blue" > molecular profile </span> of the disease, <span style="color:blue" >lifestyle</span> and other <span style="color:blue" >individual factors</span>. Precision medicine helps guide treatment decision in cancer treatments and targeted therapies.
+> Medical approach that considers factors such as <span style="color:blue" > genomic makeup </span>, <span style="color:blue" > molecular profile </span> of the disease, <span style="color:blue" >lifestyle</span> and other <span style="color:blue" >individual factors</span>. Precision medicine helps guide treatment decision in cancer treatments and targeted therapies.
 
 
 #### Advantages over Traditional Treatment
@@ -44,7 +44,7 @@ Medical approach that considers factors such as <span style="color:blue" > genom
 
 * <mark>**RNA-seq** </mark> -- *main focus in this presentation*
 
-    Provides insights into <span style="color:brown">gene expression</span>, <span style="color:brown" >alternative splicing</span> and <span style="color:brown" >transcriptomic changes</span> within cells or tissues. Which can be analyzed to <span style="color:blue" >predict treatment outcomes</span>, to <span style="color:blue" >monitor the progress and efficacy of treatment</span> and to <span style="color:blue" >understand the expression pattern</span>. These information can be interpreted to give the optimal treatment plan.
+    > Provides insights into <span style="color:brown">gene expression</span>, <span style="color:brown" >alternative splicing</span> and <span style="color:brown" >transcriptomic changes</span> within cells or tissues. Which can be analyzed to <span style="color:blue" >predict treatment outcomes</span>, to <span style="color:blue" >monitor the progress and efficacy of treatment</span> and to <span style="color:blue" >understand the expression pattern</span>. These information can be interpreted to give the optimal treatment plan.
 
     - **Pipeline**
 
@@ -52,7 +52,7 @@ Medical approach that considers factors such as <span style="color:blue" > genom
 
     - **Differential Expression Analysis**
 
-        Compare gene expression levels between different conditions or groups, such as <span style="color:red"> healthy vs. diseased samples</span>, <span style="color:red"> treated vs. untreated samples </span>, or <span style="color:red"> different developmental stages</span>. Differential expression analysis helps stratify patients into subgroups based on gene expression profiles, enabling the selection of the most appropriate and effective treatment strategies for each subgroup.
+        > Compare gene expression levels between different conditions or groups, such as <span style="color:red"> healthy vs. diseased samples</span>, <span style="color:red"> treated vs. untreated samples </span>, or <span style="color:red"> different developmental stages</span>. Differential expression analysis helps stratify patients into subgroups based on gene expression profiles, enabling the selection of the most appropriate and effective treatment strategies for each subgroup.
 
         <img align="bottom" src="rna_seq_differential_expression_analysis.png" alt="drawing" width="530"/> <br>
 
@@ -61,7 +61,7 @@ Medical approach that considers factors such as <span style="color:blue" > genom
 
 ### **RNAs** as <mark> biomarker
 
-RNA-seq allows detection of all different types of <span style="color:blue">coding RNAs (mRNA)</span> and <span style="color:blue">non-coding RNAs (snRNA, miRNA...)</span>. Differential expression of some specific genes of these types would positively or negatively correlate with disease pathology. Therefore, they serve as the biomarkers. This bioinformatics method would enhance our understanding of biological pathways and regulatory mechanisms associated with diseases.
+> RNA-seq allows detection of all different types of <span style="color:blue">coding RNAs (mRNA)</span> and <span style="color:blue">non-coding RNAs (snRNA, miRNA...)</span>. Differential expression of some specific genes of these types would positively or negatively correlate with disease pathology. Therefore, they serve as the biomarkers. This bioinformatics method would enhance our understanding of biological pathways and regulatory mechanisms associated with diseases.
 
 <img align="bottom" src="biomarker.png" alt="drawing" width="500"/> <br>
 
@@ -83,7 +83,7 @@ RNA-seq allows detection of all different types of <span style="color:blue">codi
 
 ### **Cells** as <mark> biomarker
 
-Single Cell RNA-Seq can be applied to determine the <span style="color:blue"> size of the population of a specific cell type </span> that is related to metastasis. Principle component analysis (PCA), an unsupervised machine learning algorithm is used to reduce the dimension of the data obtained from scRNA-Seq. Other clustering algorithms, like k-means clustering, are also used <span style="color:blue">isolate discrete transcriptome of the cancer related cells</span>. The characterization of individual cell types at high resolution provides valuable information for therapeutically targeting tumor metastasis and their interplay in transit and beyond.
+> Single Cell RNA-Seq can be applied to determine the <span style="color:blue"> size of the population of a specific cell type </span> that is related to metastasis. Principle component analysis (PCA), an unsupervised machine learning algorithm is used to reduce the dimension of the data obtained from scRNA-Seq. Other clustering algorithms, like k-means clustering, are also used <span style="color:blue">isolate discrete transcriptome of the cancer related cells</span>. The characterization of individual cell types at high resolution provides valuable information for therapeutically targeting tumor metastasis and their interplay in transit and beyond.
 
 * **Circulating Tumor Cells (CTC)**
 
