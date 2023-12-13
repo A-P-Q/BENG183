@@ -111,7 +111,7 @@ Limited Sensitivity for Low-Abundance Transcripts:
 
 [2]: Anders, S., McCarthy, D., Chen, Y. et al. Count-based differential expression analysis of RNA sequencing data using R and Bioconductor. Nat Protoc 8, 1765–1786 (2013). https://doi.org/10.1038/nprot.2013.099
 
-[^3]: Naithani N, Sinha S, Misra P, Vasudevan B, Sahu R. Precision medicine: Concept and tools. Med J Armed Forces India. 2021 Jul;77(3):249-257. doi: 10.1016/j.mjafi.2021.06.021. Epub 2021 Jul 3. PMID: 34305276; PMCID: PMC8282508. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8282508/
+[3]: Naithani N, Sinha S, Misra P, Vasudevan B, Sahu R. Precision medicine: Concept and tools. Med J Armed Forces India. 2021 Jul;77(3):249-257. doi: 10.1016/j.mjafi.2021.06.021. Epub 2021 Jul 3. PMID: 34305276; PMCID: PMC8282508. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8282508/
 
 [4]: Xi, X.; Li, T.; Huang, Y.; Sun, J.; Zhu, Y.; Yang, Y.; Lu, Z.J. RNA Biomarkers: Frontier of Precision Medicine for Cancer. Non-Coding RNA 2017, 3, 9. https://doi.org/10.3390/ncrna3010009
 
